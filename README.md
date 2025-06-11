@@ -1,6 +1,6 @@
-Amina El-Ashry
-Design Researcher, User Experience Researcher 
+Amina El-Ashry  
+Design Researcher, User Experience Researcher  
 
-Resume 
-Portfolio 
-LinkedIn 
+[Resume](https://github.com/aminaelashry/amina.elashry/main/resume)  
+Portfolio   
+LinkedIn   
