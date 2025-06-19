@@ -1,7 +1,6 @@
 Amina El-Ashry  
 Design Researcher, User Experience Researcher  
 
-[Resume](https://docs.google.com/gview?url=https://raw.githubusercontent.com/aminaelashry/amina.elashry/main/EL-ASHRY_AMINA_RESUME_2025.pdf&embedded=true) | <a href="https://raw.githubusercontent.com/aminaelashry/amina.elashry/main/EL-ASHRY_AMINA_RESUME_2025.pdf" download> (Download PDF) </a>  
-[Portfolio](/projects.md)  
+Portfolio available upon request   
+[Resume](https://drive.google.com/file/d/1unvh3vx_jvgjUedMtX14WyfgxjBtvFOr/view?usp=sharing)  
 [LinkedIn](https://www.linkedin.com/in/amina-el-ashry/)   
- 
