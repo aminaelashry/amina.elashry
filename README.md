@@ -5,4 +5,9 @@ Design Researcher, User Experience Researcher | IBM; University of Maryland Balt
 - [CV]()  
 - [LinkedIn](https://www.linkedin.com/in/amina-el-ashry/)
 - [GitHub](https://github.com/aminaelashry?tab=repositories)
-- Portfolio available upon request   
+- Portfolio available upon request  
+
+*** 
+Additional profiles 
+- [ACM](https://dl.acm.org/profile/99659904727)
+- [Google Scholar](https://scholar.google.com/citations?user=bg1tSYAAAAAJ&hl=en)
