@@ -1,4 +1,4 @@
-<h1 style="color: red"><code style="color : green">Amina El-Ashry</code></h1>
+**Amina El-Ashry**  
 Design Researcher, User Experience Researcher | IBM; University of Maryland Baltimore County 
 
 - [Resume](https://drive.google.com/file/d/1unvh3vx_jvgjUedMtX14WyfgxjBtvFOr/view?usp=sharing)  
