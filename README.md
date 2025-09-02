@@ -7,5 +7,6 @@ Design Researcher, User Experience Researcher | IBM; University of Maryland Balt
 - [ACM](https://dl.acm.org/profile/99659904727)
 - Portfolio materials (Resume, CV, Portfolio) available upon request
 
-I'm always looking to explore new areas and take on interesting projects. The best way to reach me is via LinkedIn or email, would be happy to connect! Please reach out with any questions, ideas, opportunities, or just want to chat. Take care. 
+I'm always looking to explore new areas and take on interesting projects. The best way to reach me is via LinkedIn or email; I would be happy to connect! Please reach out with any questions, ideas, opportunities, or just want to chat. Take care. 
+
 
