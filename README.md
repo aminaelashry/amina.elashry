@@ -11,7 +11,8 @@ Hi! I'm a researcher in the tech industry with interests in particpatory design 
 - [ACM](https://dl.acm.org/profile/99659904727)
 - Resume, CV, and portfolio available upon request 
 
-I'm always looking to explore new areas and take on interesting projects. The best way to reach me is via LinkedIn or email; I would be happy to connect! Please reach out with any questions, ideas, opportunities, or just want to chat. Take care. ✌🏼
+I'm always looking to explore new areas and take on interesting projects. The best way to reach me is via LinkedIn or email; I would be happy to connect! Please reach out with any questions, ideas, opportunities, or just want to chat. Take care. 
+
 
 
 
