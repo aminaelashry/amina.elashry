@@ -1,6 +1,8 @@
 ### **Amina El-Ashry**  
-Senior User Experience Researcher, Design Researcher | AI & Enterprise Product Strategy   
-Experience: IBM, University of Maryland Baltimore County, Google, Sofiac Travel, Cisco   
+Senior User Experience Researcher, Design Researcher | AI & Enterprise Product Strategy  
+
+Experience: IBM, University of Maryland Baltimore County, Google, Sofiac Travel, Cisco  
+Interests: Participatory Design, Human-Computer Interaction 
 
 - [LinkedIn](https://www.linkedin.com/in/amina-el-ashry/)
 - [GitHub](https://github.com/aminaelashry?tab=repositories)
